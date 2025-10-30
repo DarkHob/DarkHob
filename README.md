@@ -4,7 +4,7 @@
 </p>
 
 
-<p >I specialize in the use of Python Programming Language and its' various frameworks and libraries such as Numpy, Pandas, OpenCV,  etc to create analytical and machine models from data which can be used for data visualization and optimisation in business's and other fields of interest.
+<p >I specialize in the use of Python Programming Language and its' various frameworks and libraries such as Numpy,PyQt6, Pandas, OpenCV,  etc to create analytical and machine models from data which can be used for data visualization and optimisation in business's and other fields of interest.
 </p>
 
 
